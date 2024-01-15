@@ -1,11 +1,32 @@
 # PokeMMO Data
- 
 PokeMMO game data formatted to json for easy use in [PokeMMOHub](https://pokemmohub.com) and other projects.
 
 This repository is meant to live from User contributions. If you have any data you would like to contribute or see any outdated data, please submit a pull request or issue. Please see the [Contributing](#contributing) section for more information.
 
 ### Disclaimer
 This repository is not affiliated with PokeMMO in any way. This repository is maintained by [PokeMMOHub](https://pokemmohub.com). You can reach us on [Discord](https://discord.gg/JzENt6rmsB).
+
+# Table of Contents
+- [PokeMMO Data](#pokemmo-data)
+    - [Disclaimer](#disclaimer)
+- [Table of Contents](#table-of-contents)
+- [Project Structure](#project-structure)
+  - [Data](#data)
+    - [Items](#items)
+      - [`items.json`](#itemsjson)
+      - [`items-berry.json`](#items-berryjson)
+      - [`items-cosmetic.json`](#items-cosmeticjson)
+    - [Monsters](#monsters)
+      - [`monsters.json`](#monstersjson)
+      - [`moves.json`](#movesjson)
+      - [`pokedex.json`](#pokedexjson)
+  - [Assets](#assets)
+    - [Items](#items-1)
+      - [`itemsicons`](#itemsicons)
+  - [Locales](#locales)
+- [Contributing](#contributing)
+  - [Pull Request Guidelines](#pull-request-guidelines)
+- [Restrictions](#restrictions)
 
 # Project Structure
 The project is split up into 3 main folders: `data`, `assets` and `locales`.
