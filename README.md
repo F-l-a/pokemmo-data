@@ -4,7 +4,7 @@ PokeMMO game data formatted to json for easy use in [PokeMMOHub](https://pokemmo
 This repository is meant to live from User contributions. If you have any data you would like to contribute or see any outdated data, please submit a pull request or issue. Please see the [Contributing](#contributing) section for more information.
 
 ### Disclaimer
-This repository is not affiliated with PokeMMO in any way. This repository is maintained by [PokeMMOHub](https://pokemmohub.com). You can reach us on [Discord](https://discord.gg/JzENt6rmsB).
+This repository is not affiliated with PokeMMO in any way. This repository is maintained by [PokeMMOHub](https://pokemmohub.com). You can reach us on [Discord](https://discord.gg/F54ggpgUMj).
 
 # Table of Contents
 - [PokeMMO Data](#pokemmo-data)
